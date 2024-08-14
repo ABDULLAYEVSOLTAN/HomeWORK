@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCKVj1-g3zHrU5AeECjoDetg4Hmocpqa2BQ&s);
+ margin: 0px;
+}
+.dedy{
+    width: 100px;
+    height: 86px;
+    background-color: aqua;
+    transition: 2s;
+   cursor: grab; 
+} 
+
+.dedy:hover{
+    width: 200px;
+}
+.xexi{
+    width: 100px;
+    height: 86px;
+    background-color: aqua;
+    transition: 2s;
+   cursor: grab;
+}
+.xexi:hover{
+   width: 200px;
+}
+.sesu{
+    width: 100px;
+    height: 86px;
+    background-color: aqua;
+    transition: 2s;
+   cursor: grab;
+}
+.sesu:hover{
+    width: 200px;
+}
+.paris{
+    width: 100px;
+    height: 86px;
+    background-color: aqua;
+    transition: 2s;
+   cursor: grab; 
+}
+.paris:hover{
+    width: 200px;
+}
