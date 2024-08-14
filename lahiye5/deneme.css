@@ -1,0 +1,32 @@
+body{
+    background:#8278F1 ;
+}
+.hulk{
+    width: 700px;
+    height: 500px;
+    background: white;
+    margin-left: 400px;
+ margin-top: 100px;
+}
+.gala{
+    width: 700px;
+    height: 100px;
+    background: #ff0000;
+}
+.work{
+    width: 10px; 
+    height: 15px;
+    border: solid;
+    background:white;
+    border-radius: 20px;
+   padding-left: 20px;
+}
+.fisf{
+    width: 300px;
+    height: 40px;
+    background: white;
+    margin-left: 200px;
+
+    border: solid;
+    border-radius: 30px;
+}
