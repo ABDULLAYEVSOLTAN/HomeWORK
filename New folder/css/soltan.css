@@ -1,0 +1,81 @@
+.demo{
+    width: 985px;
+    height: 600px;
+    background: gray;
+}
+.polo{
+    width: 985px;
+    height: 100px;
+    background: #FED802;
+ font-size: large;
+ padding-left: 15px;
+ font-size: large;
+
+}
+.reyt{
+    width: 1000px;
+    height: 10px;
+  background: white;
+}
+.ror{
+    width: 1000px;
+    height: 390px;
+    background: purple;
+}
+    
+    
+.gta{
+    width: 100px;
+    height: 490px;
+     background: #FED802;
+     float: left;
+     font-size: large;
+  
+} 
+.gemi{
+        width:10px;
+        height: 500px;
+    
+        box-sizing: border-box;
+        background: white;
+        float: left;
+      }
+.lili{
+    width: 780px;
+    height: 390px;
+  background: #FED802;
+  float: left;
+  font-size: large;
+ 
+}
+.word{
+    width:10px;
+    height: 390px;
+
+    box-sizing: border-box;
+    background: white;
+    float: left;
+  
+}
+.nisan{
+    width: 100px;
+    height: 390px;
+    background: #FED802;
+    float: left;
+    font-size: large;
+   
+}
+.mer{
+    width:1000px ;
+    height: 100px;
+    background: #FED802;
+    font-size: large;
+  
+}
+.tar{
+    width: 1000px;
+    height: 10px;
+  background: white;
+}
+
+

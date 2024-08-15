@@ -1,0 +1,42 @@
+.soltan{
+    width: 61%;
+    height: 100px;
+    background: greenyellow;
+padding-left: 10px;
+}
+.zehra{
+    width:200px ;
+    height: 450px;
+    background: beige;
+display: inline-block;
+padding-left: 10px;
+
+}
+.zeyneb{
+    width: 500px;
+    height:450px ;
+  padding-left: 13px;
+display: inline-block;
+    background: white;
+}
+.ruqus{
+    width: 185px;
+    height: 450px;
+ display: inline-block;
+    background: beige;
+    padding-left: 10px;
+
+
+}
+.fariz{
+    width: 61%;
+    height: 100px;
+    background: greenyellow;
+margin-bottom: 30px;
+float: left;
+padding-left: 10px;
+}
+
+
+
+
